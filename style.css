@@ -34,4 +34,11 @@ header {
 .nav-link:hover {
        color: red;
 }
+#nav-bar a {
+    text-decoration: none;
+    
+    }
+#nav-bar ul {
+    list-style-type: square;
+}
 
