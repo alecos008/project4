@@ -1,0 +1,37 @@
+html, body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+    margin-left: 5px;
+    text-align: justify;
+    display: flex;
+}
+header {
+    font-weight: bold;
+    font-size: 20px;
+}
+#main-doc {
+    width: 80%;
+    padding-left: 100px;
+    
+}
+
+#nav-bar {
+    display: block;
+    
+   
+    height: 100%;
+    width: 12%;  
+    position: relative;
+}
+
+ .nav-link{
+    display: flex;
+    position: fixed;
+    
+    
+    
+}
+.nav-link:hover {
+       color: red;
+}
+
